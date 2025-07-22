@@ -14,8 +14,8 @@ from datetime import timedelta
 
 
 
-USERNAME= 'mhrynuik@deerislecap.com'
-PASSWORD= 'NoahButtons55'
+USERNAME= 'sample@email.com'
+PASSWORD= 'password'
 credentials= Credentials(USERNAME, PASSWORD)
 account= Account(USERNAME, credentials=credentials, autodiscover=True)
 
